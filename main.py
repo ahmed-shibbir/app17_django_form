@@ -48,3 +48,5 @@
     # EMAIL_HOST_USER = "shibbirahmedd@gmail.com"
     # EMAIL_HOST_PASSWORD = "app password-will be provided later"
 
+## TO USE ADMIN, CODE IN ADMIN.PY, GO TO TERMINAL: python manage.py create superuser
+## THIS WILL ASK FOR USERNAME, EMAIL AND PASSWORD. PROVIDE THEM, GO TO URL, TYPE /admin, ENTER, USE CREDENTIALS TO ACCESS THE DATABASE.
